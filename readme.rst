@@ -1,6 +1,6 @@
 Panduan instalasi :
 
-1. Siapkan dulu database
+1. Siapkan dulu database (minta file database sql ke admin https://wa.me/6288219918654 )
 
 2. Import database
 
