@@ -14,3 +14,6 @@ Panduan instalasi :
   - password : hidayat
 
 9. selesai.
+
+
+Atau bisa ikuti panduan instalasi menggunakan video di youtube https://youtu.be/MPinXVEcr6I
