@@ -1,5 +1,7 @@
 Panduan instalasi :
+
 1. Siapkan dulu database
+
 2. Import database
 
 3. Download repo ini dengan cara klik "download zip"
@@ -8,7 +10,7 @@ Panduan instalasi :
 6. Sesuaikan kredensial database (username, password, nama database, dll)
 7. Akses melalui browser : http://localhost/nama project/
 8. Login default 
-  - email : admin
-  - password : admin
+  - email : superadmin@gmail.com
+  - password : hidayat
 
 9. selesai.
