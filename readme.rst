@@ -9,7 +9,7 @@ Panduan instalasi :
 5. Copy folder project ke dalam folder c -> xampp -> htdocs
 6. Sesuaikan kredensial database (username, password, nama database, dll)
 7. Akses melalui browser : http://localhost/nama project/
-8. Login default 
+8. Akun superadmin
   - email : superadmin@gmail.com
   - password : hidayat
 
