@@ -13,7 +13,7 @@ Panduan instalasi :
   - email : superadmin@gmail.com
   - password : hidayat
 
-9. selesai.
+9. link demo : https://siapendik.alamteknologi.com/
 
 
 Atau bisa ikuti panduan instalasi menggunakan video di youtube https://youtu.be/MPinXVEcr6I
