@@ -1,6 +1,6 @@
 Panduan instalasi :
 
-1. Siapkan dulu database (minta file database sql ke admin 088219918654 )
+1. Siapkan dulu database (klik link berikut : https://lynk.id/arief_programmer/ZWJmjJb)
 
 2. Import database
 
